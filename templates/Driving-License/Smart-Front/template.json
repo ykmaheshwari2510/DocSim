@@ -29,7 +29,7 @@
             "type": "text",
             "filler_mode": "regex",
             "filler_regex": "(0[1-9]|[12][0-9]|3[01])[/](0[1-9]|1[012])[/](19|20)\\d\\d",
-            "entity": "date_of_issue",
+            "entity": "date_of_issue", "25 / 10 / 1979"
             "location": {
                 "x_left": 625,
                 "y_top": 550
